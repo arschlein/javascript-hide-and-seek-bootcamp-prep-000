@@ -33,7 +33,7 @@ describe('index', () => {
         expect(parseInt(children[i].innerHTML)).toEqual(start + i + 3)
       }
 
-      
+
     })
   })
 })
